@@ -1,5 +1,10 @@
-### Hi there 👋
-
+### 개인 프로필
+---
+* 보나캠프
+* IT 본부 / 주류결제팀
+* 개발 / 선임
+* bona.ghchoi@gmail.com
+* 최광훈
 <!--
 **bona-gwanghunchoi/bona-gwanghunchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
